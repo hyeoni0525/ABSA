@@ -90,7 +90,6 @@ def float_label_collator(features):
 ## 6. Result & Impact
 
 ### 📊 Performance
-*(아래 수치는 예시입니다. 실제 수치로 변경해주세요.)*
 
 * **속성 검출 모델 F1-Score:** 0.XX (Macro Average)
 * **ABSA 모델 정확도:** 0.XX
