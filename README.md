@@ -6,6 +6,7 @@
 [![PEFT](https://img.shields.io/badge/PEFT-LoRA-orange)](https://github.com/huggingface/peft)
 
 > **"화장품 리뷰의 숨은 의도까지 파악한다."**
+> <br>
 > 11가지 속성(보습, 가격, 향 등)을 탐지하고, 각 속성별 감성(긍정/부정)을 정교하게 추출하는 BERT 기반 NLP 프로젝트입니다.
 
 ---
